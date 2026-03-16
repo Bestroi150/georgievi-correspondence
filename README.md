@@ -166,7 +166,7 @@ georgievi-correspondence/
 ├── data/
 │   ├── georgievi_correspondence_1847-1863_bg.xml
 │   └── georgievi_correspondence_1847-1863_en.xml
-││
+│
 └── README.md
 ```
 
@@ -197,7 +197,7 @@ http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng
 
 **Archive:** Georgievi Brothers Collection
 
-The letters derive primarily from archival bundles covering **1856–1863**.
+The letters derive primarily from archival bundles covering **1847–1863**.
 
 ---
 
