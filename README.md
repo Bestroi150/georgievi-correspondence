@@ -82,8 +82,6 @@ Metadata fields are encoded in **Bulgarian**, reflecting the language of the ori
 
 ### `georgievi_correspondence_1847-1863_en.xml`
 
-*(currently distributed as `data_english.xml`)*
-
 English-language version of the corpus.
 
 All metadata fields have been translated to support **international research use and digital humanities projects**.
