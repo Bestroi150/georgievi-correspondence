@@ -193,7 +193,7 @@ http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng
 
 # Archival Source
 
-**Archive:** Georgievi Brothers Collection
+The Scientific Archives of the Bulgarian Academy of Sciences(BAS) **F.34k**
 
 The letters derive primarily from archival bundles covering **1847–1863**.
 
