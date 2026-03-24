@@ -212,7 +212,7 @@ This allows reuse, distribution, and adaptation provided that **appropriate cred
 If you use this dataset in research, please cite:
 ```
 Kristiyan Simeonov. (2026). Georgievi Brothers Trade Correspondence (1847–1863) (v1.0.0).
-Zenodo. https://doi.org/10.5281/zenodo.19203801
+Zenodo. [https://doi.org/10.5281/zenodo.19203801](https://doi.org/10.5281/zenodo.19203801)
 
 ```
 ---
